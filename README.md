@@ -1,4 +1,4 @@
-# Project Title: JPA2 Application
+# Project Title: JPA2 (Hospital) Application
 ## Creator
 Youssef Ketaj
 
